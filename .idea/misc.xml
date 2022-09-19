@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/project/android_ScrollView/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.225390625" />
+        <entry key="..\:/Android/project/android_ScrollView/app/src/main/res/layout-w936dp/activity_login.xml" value="0.19706284153005466" />
+        <entry key="..\:/Android/project/android_ScrollView/app/src/main/res/layout/activity_login.xml" value="0.26132246376811596" />
         <entry key="..\:/Android/project/android_ScrollView/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Android/project/android_ScrollView/app/src/main/res/layout/activity_main2.xml" value="0.1" />
         <entry key="..\:/Android/project/android_ScrollView/app/src/main/res/layout/activity_main3.xml" value="0.1" />
+        <entry key="..\:/Android/project/android_ScrollView/app/src/main/res/layout/activity_main4.xml" value="0.1" />
+        <entry key="..\:/Android/project/android_ScrollView/app/src/main/res/layout/activity_main5.xml" value="0.34430379746835443" />
       </map>
     </option>
   </component>
